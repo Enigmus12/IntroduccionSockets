@@ -57,4 +57,4 @@ Una vez iniciada la aplicación, abre `http://localhost:8080` en tu navegador. L
 
 ## Autor
 
-Enigmus12
+Juan David Rodriguez
