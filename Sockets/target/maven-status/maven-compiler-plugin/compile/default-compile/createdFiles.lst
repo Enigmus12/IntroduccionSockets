@@ -1,5 +1,0 @@
-eci\edu\co\endpoints\TimerEndpoint.class
-eci\edu\co\controller\WebController.class
-eci\edu\co\configuration\WSConfigurator.class
-eci\edu\co\components\TimedMessageBroker.class
-eci\edu\co\WSStartApp.class
